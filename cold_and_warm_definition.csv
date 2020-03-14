@@ -1,0 +1,96 @@
+Country (WHO),Country (JHU),Local Transmission by WHO March 9,Confirmed Cases at March 9,Average Temperature in March at the Capital City [C],Latitiude Line [Degrees]
+Republic of Korea,"Korea, South",Yes,7382,5,37.57
+Japan,Japan,Yes,488,9.4,35.67
+Singapore ,Singapore ,Yes,150,28,1.29
+Malaysia,Malaysia,Yes,93,27,3.14
+Australia,Australia,Yes,77,17,-35.28
+Viet Nam,Vietnam,Yes,30,,
+Philippines,Philippines,Yes,10,,
+New Zealand ,New Zealand ,Yes,5,,
+Cambodia,Cambodia,Yes,2,,
+France,France,Yes,1116,8.8,48.58
+Germany,Germany,Yes,1112,4,52.52
+Spain,Spain,Yes,589,9.8,40.41
+Switzerland,Switzerland,Yes,332,3.7,51.5
+The United Kingdom,United Kingdom,Yes,277,7,51.5
+Netherlands,Netherlands,Yes,265,6,52.3
+Sweden,Sweden,Yes,203,0,59.33
+Belgium ,Belgium ,Yes,200,6,50.85
+Norway,Norway,Yes,169,0,59.91
+Austria,Austria,Yes,112,6.4,48.2
+Greece,Greece,Yes,73,12.3,37.98
+Iceland ,Iceland ,Yes,55,0,64.15
+Israel,Israel,Yes,39,,
+Denmark,Denmark,Yes,36,,
+Czechia,Czechia,Yes,32,,
+Finland ,Finland ,Yes,30,,
+Portugal ,Portugal ,Yes,30,,
+Ireland,Ireland,Yes,21,,
+Slovenia ,Slovenia ,Yes,16,,
+Romania ,Romania ,Yes,15,,
+Georgia ,Georgia ,No,,,
+Croatia ,Croatia ,Yes,11,,
+Poland ,Poland ,No,,,
+Estonia,Estonia,No,,,
+Azerbaijan ,Azerbaijan ,No,,,
+Hungary,Hungary,Yes,9,,
+Russian Federation ,Russia,No,,,
+Belarus,Belarus,Yes,6,,
+Slovakia,Slovakia,Yes,5,,
+Bulgaria,Bulgaria,Yes,4,,
+Latvia,Latvia,No,,,
+Malta,Malta,No,,,
+North Macedonia,North Macedonia,No,,,
+Albania ,Albania ,No,,,
+Bosnia and Herzegovina,Bosnia and Herzegovina,Yes,2,,
+Luxembourg ,Luxembourg ,No,,,
+Andorra ,Andorra ,No,,,
+Armenia ,Armenia ,No,,,
+Holy See ,Holy See ,No,,,
+Liechtenstein ,Liechtenstein ,No,,,
+Lithuania,Lithuania,No,,,
+Monaco,Monaco,No,,,
+Republic of Moldova ,Moldova ,No,,,
+Serbia ,Serbia ,No,,,
+Ukraine ,Ukraine ,No,,,
+Thailand ,Thailand ,Yes,50,29,13.75
+India ,India ,Yes,43,,
+Indonesia,Indonesia,Yes,6,,
+Maldives ,Maldives ,Yes,4,,
+Bangladesh ,Bangladesh ,Yes,3,,
+Bhutan ,Bhutan ,No,,,
+Nepal ,Nepal ,No,,,
+Sri Lanka,Sri Lanka,No,,,
+Iran ,Iran ,Yes,6566,10,35.68
+Bahrain ,Bahrain ,Yes,79,21,25.56
+Kuwait ,Kuwait ,No,,,
+Iraq ,Iraq ,Yes,60,16,33.31
+Egypt ,Egypt ,Yes,55,17,30.04
+United Arab Emirates ,United Arab Emirates ,Yes,45,,
+Lebanon ,Lebanon ,Yes,32,,
+Oman ,Oman ,No,,,
+Qatar ,Qatar ,No,,,
+Saudi Arabia ,Saudi Arabia ,No,,,
+Pakistan ,Pakistan ,No,,,
+Afghanistan ,Afghanistan ,No,,,
+Morocco ,Morocco ,No,,,
+Tunisia ,Tunisia ,No,,,
+Jordan ,Jordan ,No,,,
+United Stated of America,US,Yes,213,7.3,38.9
+Canada ,Canada ,Yes,62,-2.2,45.42
+Brazil ,Brazil ,Yes,25,,
+Ecuador ,Ecuador ,Yes,15,,
+Argentina,Argentina,No,,,
+Chile ,Chile ,Yes,10,,
+Costa Rica ,Costa Rica ,Yes,9,,
+Mexico ,Mexico ,No,,,
+Peru,Peru,Yes,6,,
+Colombia,Colombia,No,,,
+Dominican Republic ,Dominican Republic ,No,,,
+Paraguay ,Paraguay ,No,,,
+Algeria,Algeria,Yes,20,,
+Senegal ,Senegal ,No,,,
+South Africa ,South Africa ,No,,,
+Cameroon ,Cameroon ,Yes,2,,
+Nigeria,Nigeria,No,,,
+Togo ,Togo ,No,,,
