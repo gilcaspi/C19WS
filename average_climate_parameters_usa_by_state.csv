@@ -1,4 +1,4 @@
-Country,Climate,Average Temperature [C] ,Average Precipitation [mm],Average Number of Days With Precipitation [Days],Average Number of Rainy Days [Days],Average Morning Relative Humidity [%],Average Evening Relative Humidity [%],Average Dew Point [C],Average Wind Speed [km/h]
+﻿Country,Climate,Average Temperature [C] ,Average Precipitation [mm],Average Number of Days With Precipitation [Days],Average Number of Rainy Days [Days],Average Morning Relative Humidity [%],Average Evening Relative Humidity [%],Average Dew Point [C],Average Wind Speed [km/h]
 Alabama,,14.2,152.4,8.7,10,81,48,6.8,12.1
 Alaska,,1,96.5,18.9,18,85,69,-2.7,12.7
 Arizona,,18.4,25.4,3.9,4,57,25,1.4,10.3
